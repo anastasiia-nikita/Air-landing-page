@@ -4,12 +4,12 @@ This repository is demonstrated a possible solution of visualization of the layo
 The main purpose of this project is mastering HTML & CSS.
 
 In order to create this project, I have used following technology and approaches:
-- ✅ HTML
-- ✅ SCSS
-- ✅ Grid
-- ✅ Flexbox
-- ✅ BEM methodology
-- ✅ Responsiveness and cross-browser
+- HTML
+- SCSS
+- Grid
+- Flexbox
+- BEM methodology
+- Responsiveness and cross-browser
 
 # Links
 ➡️ [DEMO LINK](https://anastasiia-nikita.github.io/Air-landing-page/#)
